@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_introductions",
+  "info": {
+    "displayName": "introduction",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "desccc": {
+      "type": "richtext"
+    }
+  }
+}

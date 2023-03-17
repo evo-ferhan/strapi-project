@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_sections_equities",
+  "info": {
+    "displayName": "Equity"
+  },
+  "options": {},
+  "attributes": {
+    "detail": {
+      "type": "richtext"
+    }
+  }
+}

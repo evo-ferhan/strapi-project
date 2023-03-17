@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_sections_products",
+  "info": {
+    "displayName": "products",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "titleee": {
+      "type": "string"
+    },
+    "descccc": {
+      "type": "richtext"
+    }
+  }
+}
